@@ -1,0 +1,24 @@
+{
+    "docs": [
+      {
+        "name": "Little Bird Told Me",
+        "industry": "BABY_CHILD",
+        "stars": 5,
+        "slug": "little-bird-told-me",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/little-bird-told-me-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "Babyblooms",
+        "industry": "BABY_CHILD",
+        "stars": 4.9,
+        "slug": "babyblooms-limited",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/babyblooms-limited-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      }
+    ],
+    "numFound": 2
+  }
+  

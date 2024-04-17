@@ -1,0 +1,78 @@
+{
+    "docs": [
+      {
+        "name": "&Keep",
+        "industry": "HOME_GARDEN",
+        "stars": 4.8,
+        "slug": "keep",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/keep-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "144 On The Hill",
+        "industry": "TOURISM",
+        "stars": 5,
+        "slug": "144-on-the-hill",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/144-on-the-hill-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": []
+      },
+      {
+        "name": "1BR",
+        "industry": "TRANSPORTATION",
+        "stars": 4.9,
+        "slug": "1br",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/1br-logo.JPG",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "1Plus1 Loans",
+        "industry": "FINANCE",
+        "stars": 5,
+        "slug": "1plus1-loans",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/1plus1-loans-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": []
+      },
+      {
+        "name": "1st Class Accounts",
+        "industry": "BUSINESS_OFFICE",
+        "stars": 4.9,
+        "slug": "1st-class-accounts",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/1st-class-accounts-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "1st Class Credit Union",
+        "industry": "FINANCE",
+        "stars": 4.6,
+        "slug": "1st-class-credit-union",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/1st-class-credit-union-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "1st-it.com - Making Technology Simple",
+        "industry": "BUSINESS_OFFICE",
+        "stars": 5,
+        "slug": "1st-it-com",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/1st-it-com-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": []
+      },
+      {
+        "name": "20/20 Project Management Training",
+        "industry": "EDUCATION_TRAINING",
+        "stars": 4.5,
+        "slug": "20-20-project-management",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/20-20-project-management-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["TRUSTED"]
+      }
+    ],
+    "numFound": 3120
+  }
+  

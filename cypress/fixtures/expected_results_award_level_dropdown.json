@@ -1,0 +1,78 @@
+{
+    "docs": [
+      {
+        "name": "Bower",
+        "industry": "FINANCE",
+        "stars": 5,
+        "slug": "bower",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/bower-retirement-services-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "Project Music",
+        "industry": "RETAIL",
+        "stars": 5,
+        "slug": "project-music",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/project-music-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "Just Resorts Ltd",
+        "industry": "TOURISM",
+        "stars": 5,
+        "slug": "just-resorts-ltd",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/just-resorts-ltd-logo.png",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "Equity Release Supermarket",
+        "industry": "BUSINESS_OFFICE",
+        "stars": 5,
+        "slug": "equity-release-supermarket",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/equity-release-supermarket-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "Capital Fortune",
+        "industry": "BUSINESS_OFFICE",
+        "stars": 5,
+        "slug": "capital-fortune",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/capital-fortune-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "The Rare Gemstone Company",
+        "industry": "RETAIL",
+        "stars": 5,
+        "slug": "the-rare-gemstone-company",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/lapigems-gem-company-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "MedExpress Online Pharmacy",
+        "industry": "HEALTH_WELLBEING",
+        "stars": 5,
+        "slug": "medexpress-online-pharmacy-uk",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/medexpress-online-pharmacy-uk-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      },
+      {
+        "name": "Esplora Travel",
+        "industry": "TOURISM",
+        "stars": 5,
+        "slug": "esplora",
+        "logoUrl": "https://www.feefo.com/api/merchant-image/esplora-logo.jpg",
+        "matchedName": "",
+        "serviceAwardLevels": ["PLATINUM"]
+      }
+    ],
+    "numFound": 1268
+  }
+  
