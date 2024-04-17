@@ -7,7 +7,7 @@ This repository contains a Cypress testing project for testing web applications.
 To install the project and its dependencies, follow these steps:
 1. Clone the repository to your local machine:
    ```
-   git clone <repository_url>
+   git clone https://github.com/S-ipk/Feefo.git
    ```
 2. Navigate to the project directory:
    ```

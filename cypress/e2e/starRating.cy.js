@@ -1,5 +1,6 @@
 import { reviewPage } from '../pages/basePage';
 import { searchMerchant } from '../pages/searchMerchant';
+import ExpectedResSortBy from '../fixtures/expected_results_starRatings_dropdown.json';
 
 
 describe('Category Dropdown', () => {
@@ -26,6 +27,27 @@ describe('Category Dropdown', () => {
   });
 
 
+  it.only('Should select "Name - (A - Z)" sort by option and intercept the API request', () => {
+
+    cy.intercept('GET', '/search-reviews/api/search*').as('getDropdownOptions');
+    
+    searchMerchant.ratingsDropdown().click();
+
+
+    searchMerchant.ratingstarThree.click();
+
+    cy.wait('@getDropdownOptions').then((interception) => {
+      // Assert that the response status code is 200
+      expect(interception.response.statusCode).to.eq(200);
+      expect(interception.state).to.equal('Complete')
+
+      
+      const actualResponseBody = JSON.parse(interception.response.body);
+      expect(actualResponseBody).to.deep.equal(ExpectedResSortBy);
+      
+    });
+
+  });
 
 
 });

@@ -1,0 +1,85 @@
+{
+    "docs": [
+        {
+            "name": "Positive Commercial Finance",
+            "industry": "BUSINESS_OFFICE",
+            "stars": 5,
+            "slug": "positive-commercial-finance",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/positive-commercial-finance-logo.jpg",
+            "matchedName": "",
+            "serviceAwardLevels": []
+        },
+        {
+            "name": "Bower",
+            "industry": "FINANCE",
+            "stars": 5,
+            "slug": "bower",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/bower-retirement-services-logo.png",
+            "matchedName": "",
+            "serviceAwardLevels": [
+                "PLATINUM"
+            ]
+        },
+        {
+            "name": "Project Music",
+            "industry": "RETAIL",
+            "stars": 5,
+            "slug": "project-music",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/project-music-logo.jpg",
+            "matchedName": "",
+            "serviceAwardLevels": [
+                "PLATINUM"
+            ]
+        },
+        {
+            "name": "Just Resorts Ltd",
+            "industry": "TOURISM",
+            "stars": 5,
+            "slug": "just-resorts-ltd",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/just-resorts-ltd-logo.png",
+            "matchedName": "",
+            "serviceAwardLevels": [
+                "PLATINUM"
+            ]
+        },
+        {
+            "name": "Equity Release Supermarket",
+            "industry": "BUSINESS_OFFICE",
+            "stars": 5,
+            "slug": "equity-release-supermarket",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/equity-release-supermarket-logo.jpg",
+            "matchedName": "",
+            "serviceAwardLevels": [
+                "PLATINUM"
+            ]
+        },
+        {
+            "name": "Kyna Associates",
+            "industry": "BUSINESS_OFFICE",
+            "stars": 5,
+            "slug": "kyna-associates",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/kyna-associates-logo.png",
+            "matchedName": "",
+            "serviceAwardLevels": []
+        },
+        {
+            "name": "Croft Filters Ltd",
+            "industry": "BUSINESS_OFFICE",
+            "stars": 5,
+            "slug": "croft-filters-ltd",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/croft-filters-ltd-logo.jpg",
+            "matchedName": "",
+            "serviceAwardLevels": []
+        },
+        {
+            "name": "Travel Butlers",
+            "industry": "TOURISM",
+            "stars": 5,
+            "slug": "travel-butlers",
+            "logoUrl": "https://www.feefo.com/api/merchant-image/travel-butlers-logo.jpg",
+            "matchedName": "",
+            "serviceAwardLevels": []
+        }
+    ],
+    "numFound": 3106
+}

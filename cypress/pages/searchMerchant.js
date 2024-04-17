@@ -14,9 +14,9 @@ class SearchMerchant {
     get platinumWinners() { return cy.get('[data-testid="Platinum winners"]'); }
     get sortByAtoZbyName() { return cy.get('[data-testid="Name - (A - Z)"]');  }
     starRating() { return cy.xpath("//label[@id='feefo-dropdown-Star_Rating-label']");  }
+    ratingsDropdown() { return cy.xpath("//div[@class='Row-sc-1d334756-1 RowContainer-sc-1d334756-57 FiltersContainer-sc-1d334756-59 geWhmt etSgMI zJAxN']/div[@class='DropdownContainer-sc-1d334756-47 lbzbry FilterDropdown-sc-1d334756-61 jzVcoK']//div[.='Star Rating']");  }
+    get ratingstarThree() { return cy.get('#feefo-dropdown-Star_Rating-item-2');  }
     
-
-
 
 
 }

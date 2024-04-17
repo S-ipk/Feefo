@@ -9,7 +9,6 @@ class ReviewPage {
   const reviewPage = new ReviewPage();
   
   class Locators {
-    //Login page all locators will be held here 
   
     get userName() {
   

@@ -45,12 +45,6 @@ describe('Category Dropdown', () => {
       expect(actualResponseBody).to.deep.equal(ExpectedResAward);
 
 
-    // // Log the actual response body for debugging
-    // console.log('Actual Response Body:', interception.response.body);
-
-    // // Compare the actual response body and expected response
-    // expect(interception.response.body).to.deep.equal(ExpectedResAward);
-    //   //expect(interception.response.body).to.deep.equal(ExpectedResAward);
       
     });
 
